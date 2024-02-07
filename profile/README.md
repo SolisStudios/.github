@@ -11,4 +11,3 @@ A modern Forge Ghost Hacked Client with many modules and modern AntiCheat bypass
 <br/>
 <ins>AstraRealms</ins> _(currently in devlopment)_   
 A Minecraft server with the main focus on our unique space themed RPG mode with epic boss fights, massive open world and a custom ressource pack all possible without any mods.   
-<br/><br/>
