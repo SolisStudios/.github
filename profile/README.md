@@ -6,7 +6,7 @@ _Maureen Joyce Connolly_
 ### What is SolisStudios?   
 [SolisStudios](https://github.com/SolisStudios) is a development team founded in 2023 mainly focused on Minecraft projects. We try to port popular game types into Minecraft and try to deliver a brand new experience into Minecraft without Mods and just the ressources that Minecraft has.   
 ### Projects  
-<ins>SolisClient</ins> _(currently in devlopment)_   
+<ins>SolisClient</ins> _(project paused)_   
 A modern Forge Ghost Hacked Client with many modules and modern AntiCheat bypasses.   
 <br/>
 <ins>AstraRealms</ins> _(currently in devlopment)_   
